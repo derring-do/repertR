@@ -1,4 +1,7 @@
+# CREDITS:
 # https://stackoverflow.com/questions/31782580/how-can-i-play-birthday-music-using-r
+# https://www.vanityfair.com/hollywood/2017/08/the-story-of-the-ducktales-theme-music
+# https://open.spotify.com/track/48hgyuQpQ4bhfxwvUAq6D4
 
 library("dplyr")
 library("audio")
